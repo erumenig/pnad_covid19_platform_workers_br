@@ -1,4 +1,4 @@
-# pnad_covid19_brworkers
+# pnad_covid19_platform_workers_br
 ### This repository refers to the analysis of the profile of Brazilian workers in delivery and ride-hailing platforms 
 The script, inspired by previous efforts, allows you to access data from the PNAD Covid-19 - details of which can be read here: << https://www.ibge.gov.br/en/statistics/social/labor/27975-weekly-release-pnadcovid1.html >>.
 
